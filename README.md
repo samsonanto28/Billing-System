@@ -1,4 +1,4 @@
-## Point Of Sale Application
+## Billing System
 
 A simple POS application developed for coursework. Swing API is used for the GUI interface.
 
